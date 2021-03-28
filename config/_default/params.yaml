@@ -22,9 +22,9 @@ twitter: ''
 
 email: yingxinzhou@link.cuhk.edu.hk
 phone: +852 9497 5200
-directions: Room 738, 7/F
+#directions: Room 738, 7/F
 address:
-  street: Cheng Yu Tung Building, 12 Chak Cheung Street, Shatin, N.T.
+  street: Room 738, 7/F, Cheng Yu Tung Building, 12 Chak Cheung Street, Shatin, N.T., Hong Kong SAR
   #city: Stanford
   #region: CA
   #postcode: '94305'
