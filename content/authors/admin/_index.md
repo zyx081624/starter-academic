@@ -71,7 +71,9 @@ email: ""
 highlight_name: false
 ---
 
-Yingxin Zhou is a research assistant in Department of Decision Sciences and Managerial Economics, The Chinese University of Hong Kong (CUHK) Business School. He received her BA in Electronic Business from Sun Yat-sen University, China, and his MS in Management Engineering from the Chinese University of Hong Kong, Hong Kong S.A.R. Her main research interests include initial coin offerings (ICO), IT business value, and economics of artificial intelligence and machine learning. Her recent research interests focus on investor behavior on online ICO platforms, such as ICObench.
+Yingxin Zhou is a research assistant in Department of Decision Sciences and Managerial Economics, The Chinese University of Hong Kong (CUHK) Business School. He received her BA in Electronic Business from Sun Yat-sen University, China, and his MS in Management Engineering from the Chinese University of Hong Kong, Hong Kong S.A.R. 
+
+Her main research interests include initial coin offerings (ICO), IT business value, and economics of artificial intelligence and machine learning. Her recent research interests focus on investor behavior on online ICO platforms, such as ICObench.
 
 
 
